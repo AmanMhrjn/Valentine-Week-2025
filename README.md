@@ -1,1 +1,3 @@
 # Valentine-Week-2025
+
+This Valentine's Week webpage features a romantic gradient background and stylishly animated links for each day of the celebration. The links replace traditional buttons, allowing users to navigate to different event pages like Rose Day, Propose Day, and Valentine's Day. The background is enhanced with a continuous animation of falling heart and kiss emojis, creating a lively and love-filled atmosphere. Hover effects add interactivity by enlarging the links, making them visually appealing. A footer credits the design to Aman Maharjan, 2025. The JavaScript script dynamically generates falling emojis, reinforcing the theme of love and celebration. Let me know if you'd like any refinements! 💖
